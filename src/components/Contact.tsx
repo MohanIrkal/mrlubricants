@@ -1,8 +1,7 @@
 import { Reveal } from "./Reveal";
 import { MapPin, Mail, FileText, Phone, Navigation } from "lucide-react";
 
-const MAPS_URL =
-  "https://www.google.com/maps/search/?api=1&query=Chitta+Complex+Shop+No+15+Indi+Pump+Circle+Hubballi";
+const MAPS_URL = "https://maps.app.goo.gl/ozA645sAhaszhWu87";
 
 export function Contact() {
   return (
