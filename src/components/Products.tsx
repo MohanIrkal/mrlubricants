@@ -24,7 +24,7 @@ const groups = [
     brand: "IOCL Servo",
     accent: "Indian Oil",
     image: hydraulic,
-    items: ["Servo 20W40 Engine Oil"],
+    items: ["Servo 20W40 Engine Oil 1L/900mL"],
   },
   {
     brand: "Castrol",
