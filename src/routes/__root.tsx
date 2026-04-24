@@ -29,14 +29,18 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "MR Lubricants | HP Lubricants Dealer in Hubli | WHOLESALE" },
+      { name: "description", content: "Wholesale supplier of HP Lubricants, Castrol, Servo & industrial oils in Hubballi. Bulk supply across North Karnataka. Call now." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "MR Lubricants | HP Lubricants Dealer in Hubli | WHOLESALE" },
+      { property: "og:description", content: "Wholesale supplier of HP Lubricants, Castrol, Servo & industrial oils in Hubballi. Bulk supply across North Karnataka. Call now." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "MR Lubricants | HP Lubricants Dealer in Hubli | WHOLESALE" },
+      { name: "twitter:description", content: "Wholesale supplier of HP Lubricants, Castrol, Servo & industrial oils in Hubballi. Bulk supply across North Karnataka. Call now." },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/7557caa3-d401-467d-8eaf-9d6ccc8ea114" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/7557caa3-d401-467d-8eaf-9d6ccc8ea114" },
     ],
     links: [
       {
