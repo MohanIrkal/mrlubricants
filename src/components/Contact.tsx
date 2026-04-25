@@ -45,7 +45,7 @@ export function Contact() {
               <ContactCard
                 icon={FileText}
                 title="GSTIN"
-                lines={["29XXXXXXXXXX1ZX"]}
+                lines={["29ABTFM0779J12E"]}
                 muted
               />
             </div>
