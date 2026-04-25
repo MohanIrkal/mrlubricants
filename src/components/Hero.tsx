@@ -1,5 +1,5 @@
 import { Phone, MessageCircle } from "lucide-react";
-import logo from "@/assets/mr-lubricants-logo.png";
+import logo from "@/assets/mr-lubricants-logo-new.png";
 import hero from "@/assets/hero-gears.jpg";
 
 export function Hero() {
@@ -56,7 +56,7 @@ export function Hero() {
         <div className="animate-fade-in-up delay-300 mx-auto mt-4 h-1 w-24 rounded-full bg-gradient-gold" />
 
         <p className="animate-fade-in-up delay-300 mx-auto mt-8 max-w-xl text-base text-white/60">
-          Trusted bulk supply across North Karnataka — partnering with garages,
+          Trusted bulk supply across North Karnataka — partnering with
           retailers, and industries for over a decade.
         </p>
 
