@@ -26,7 +26,7 @@ export function About() {
               <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
                 MR Lubricants is a leading wholesale supplier of automotive and
                 industrial lubricants based in Hubballi. We specialize in bulk
-                supply across North Karnataka, serving garages, retailers, and
+                supply across North Karnataka, serving retailers, and
                 industrial clients with trusted brands and reliable service.
               </p>
               <p className="mt-4 text-lg leading-relaxed text-muted-foreground">
