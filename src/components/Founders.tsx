@@ -12,13 +12,13 @@ const founders = [
       "We built MR Lubricants with a vision to provide reliable, high-quality lubricants to businesses across North Karnataka. Our focus has always been trust, consistency, and long-term relationships.",
   },
   {
-    name: "Mr. Nagaraj M Irkal",
+    name: "Mrs. Vidya Nagaraj Irkal",
     role: "Co-Founder",
     phone: "+91 98861 56577",
     tel: "919886156577",
-    initials: "NI",
+    initials: "VI",
     quote:
-      "Our goal is to expand and dominate the regional market while maintaining strong service and customer satisfaction. We are committed to growth and excellence.",
+      "As a female entrepreneur myself, our goal is to expand and dominate the regional market while maintaining strong service and customer satisfaction. We are committed to growth and excellence.",
   },
 ];
 

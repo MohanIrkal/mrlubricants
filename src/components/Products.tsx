@@ -7,7 +7,7 @@ import hydraulic from "@/assets/product-hydraulic.jpg";
 const groups = [
   {
     brand: "HP Lubricants",
-    accent: "HPCL",
+    accent: "Hindustan Petroleum ",
     image: engineOil,
     items: [
       "HP Racer Splendid 20W40 / 15W30 (1L / 900ml)",
@@ -15,13 +15,13 @@ const groups = [
       "HP Gear Oil EP 90 (1L / 5L / 20L / 26L)",
       "Laal Ghoda",
       "Milcy Turbo",
-      "UTO (Wet Brake Oil)",
-      "Neosynth / Futurx Racer",
+      "UTTO (Wet Brake Oil)",
+      "FuturX Racer/Neosynth ",
       "EP 2 Grease",
     ],
   },
   {
-    brand: "IOCL Servo",
+    brand: "Servo",
     accent: "Indian Oil",
     image: hydraulic,
     items: ["Servo 20W40 Engine Oil 1L/900mL"],

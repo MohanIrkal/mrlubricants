@@ -1,7 +1,7 @@
 import { Reveal } from "./Reveal";
 
 const brands = [
-  { name: "HP Lubricants", sub: "HPCL" },
+  { name: "HP Lubricants", sub: "Hindustan Petroleum " },
   { name: "Servo", sub: "IndianOil" },
   { name: "Castrol", sub: "Premium Engine Oils" },
   { name: "Motul", sub: "Performance" },
