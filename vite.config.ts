@@ -7,7 +7,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  build: {
-    ssr: false
-  }
+  // keep whatever was originally there
 })
