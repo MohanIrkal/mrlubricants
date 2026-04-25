@@ -13,7 +13,7 @@
     "@tanstack/react-query": "^5.83.0",
     "@tanstack/react-router": "^1.168.0",
     "@tanstack/react-start": "^1.167.14",
-    "lucide-react": "^1.11.0",
+    "lucide-react": "^0.462.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "tailwind-merge": "^3.5.0",
@@ -22,6 +22,8 @@
   },
   "devDependencies": {
     "@lovable.dev/vite-tanstack-config": "^1.4.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.0.4",
     "typescript": "^5.8.3",
     "vite": "^7.3.1"
