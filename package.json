@@ -15,7 +15,10 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "tw-animate-css": "^1.3.4",
-    "lucide-react": "^0.575.0"
+    "lucide-react": "^0.575.0",
+    "tailwindcss": "^4.2.1",
+    "@tailwindcss/vite": "^4.2.1",
+    "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
     "@lovable.dev/vite-tanstack-config": "^1.4.0",
